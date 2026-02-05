@@ -1,0 +1,12 @@
+myenv/
+__pycache__/
+*.pyc
+
+# Pickle / model files
+*.pkl
+
+# Node
+movie-frontend/node_modules/
+
+# OS files
+.DS_Store
